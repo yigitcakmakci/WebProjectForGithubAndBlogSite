@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewData["Title"] - Kişisel Site</title>
+    <title>@ViewData["Title"] - Yiğit Çakmakcı</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebProjectForGithubAndBlogSite.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/site.css" />
     <style>
+
         body {
             margin: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -58,11 +59,13 @@
         <h1>@ViewData["Title"]</h1>
     </header>
     <nav>
-        <a href="/">Home</a>
-        <a href="/Portfolio">Portfolio</a>
-        <a href="/Contact">Contact</a>
+        <a asp-controller="Home" asp-action="Index" style="align-items">Home</a>
+        <a asp-controller="Portofolio" asp-action="Index" style="align-items">Portfolio</a>
+        <a asp-controller="Contact" asp-action="Index" style="align-items">Contact</a>
     </nav>
-    
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
     <footer>
         <p>&copy; 2024 Yiğit Çakmakcı</p>
     </footer>
