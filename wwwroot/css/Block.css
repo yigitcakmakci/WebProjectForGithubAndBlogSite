@@ -1,0 +1,46 @@
+﻿.circle {
+    border-radius: 50%;
+    height: 90%;
+    background-color: white;
+    aspect-ratio: 1/1;
+    opacity: 50%;
+}
+
+.outside {
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    background-color: #75a59e;
+    opacity: 100%;
+}
+
+
+.grid-container2x {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 eşit sütun oluşturur */
+}
+
+.grid-container4x {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 eşit sütun oluşturur */
+}
+
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customBorder {
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.ExperienceTable {
+    border-collapse: collapse;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: grey
+}
