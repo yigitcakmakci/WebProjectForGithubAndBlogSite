@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A+GBKBMYFcNtFPXgZdzrkUk/pv/FEuQyYflGtu9fERc=",
+  "Hash": "crudvaj7ZsNuuX+PWaMZfv1yjtSXLcLL7Ffjy65G2c0=",
   "Source": "WebProjectForGithubAndBlogSite",
   "BasePath": "_content/WebProjectForGithubAndBlogSite",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "images/WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg"
     },
     {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\js\\site.js",
@@ -1212,25 +1231,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\ProfilePhotoV1.jpg",
-      "SourceId": "WebProjectForGithubAndBlogSite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
-      "BasePath": "_content/WebProjectForGithubAndBlogSite",
-      "RelativePath": "ProfilePhotoV1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProfilePhotoV1.jpg"
     }
   ]
 }

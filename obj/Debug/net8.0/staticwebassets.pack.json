@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\WebProjectForGithubAndBlogSite.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\ProfilePhotoV1.jpg",
-      "PackagePath": "staticwebassets\\ProfilePhotoV1.jpg"
-    },
-    {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Block.css",
       "PackagePath": "staticwebassets\\css\\Block.css"
     },
@@ -19,6 +15,10 @@
     {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg"
     },
     {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\js\\site.js",
