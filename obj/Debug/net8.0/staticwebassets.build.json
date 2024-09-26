@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "crudvaj7ZsNuuX+PWaMZfv1yjtSXLcLL7Ffjy65G2c0=",
+  "Hash": "mt7F2G4nOkoYp72X3M3wHli/iqlXiVfrrbPA+34Znjk=",
   "Source": "WebProjectForGithubAndBlogSite",
   "BasePath": "_content/WebProjectForGithubAndBlogSite",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\Block.css"
     },
     {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\GeneralPageLayout.css",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "css/GeneralPageLayout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\GeneralPageLayout.css"
+    },
+    {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\site.css",
       "SourceId": "WebProjectForGithubAndBlogSite",
       "SourceType": "Discovered",
@@ -112,12 +131,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg",
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\images\\profilePhotoV1.jpg",
       "SourceId": "WebProjectForGithubAndBlogSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
       "BasePath": "_content/WebProjectForGithubAndBlogSite",
-      "RelativePath": "images/WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg",
+      "RelativePath": "images/profilePhotoV1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\WhatsApp Görsel 2024-06-07 saat 22.17.36_511e8ddd.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\profilePhotoV1.jpg"
     },
     {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\js\\site.js",
