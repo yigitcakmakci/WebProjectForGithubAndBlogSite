@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\WebProjectForGithubAndBlogSite.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\ProfilePhotoV1.jpg",
+      "PackagePath": "staticwebassets\\ProfilePhotoV1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Block.css",
+      "PackagePath": "staticwebassets\\css\\Block.css"
+    },
+    {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
