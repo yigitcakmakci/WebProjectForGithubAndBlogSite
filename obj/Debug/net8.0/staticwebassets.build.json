@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mt7F2G4nOkoYp72X3M3wHli/iqlXiVfrrbPA+34Znjk=",
+  "Hash": "9pViqww7rhidyPIT4GLsKKMsc390lEOiz0nKDUJpSks=",
   "Source": "WebProjectForGithubAndBlogSite",
   "BasePath": "_content/WebProjectForGithubAndBlogSite",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\js\\startingAnimation.js",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "js/startingAnimation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\startingAnimation.js"
     },
     {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
