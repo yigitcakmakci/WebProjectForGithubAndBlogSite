@@ -23,6 +23,13 @@
 .grid-container4x {
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* 4 eşit sütun oluşturur */
+
+}
+
+.animated-div {
+    opacity: 0;
+    transform: translateY(-50px); /* Yukarıdan başlaması için */
+    transition: opacity 1s ease, transform 1s ease; /* Geçiş süreleri */
 }
 
 .grid-item {
@@ -51,3 +58,4 @@
     background-position: center; /* Resmin ortalanmasını sağlar */
     background-repeat: no-repeat; /* Resmin tekrar etmemesini sağlar */
 }
+
