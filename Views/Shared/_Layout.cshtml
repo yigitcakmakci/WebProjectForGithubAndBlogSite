@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebProjectForGithubAndBlogSite.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/Navbar.css"/>
     <style>
 
         body {
@@ -59,9 +60,9 @@
         <h1>@ViewData["Title"]</h1>
     </header>
     <nav>
-        <a asp-controller="Home" asp-action="Index" style="align-items">Home</a>
-        <a asp-controller="Portofolio" asp-action="Index" style="align-items">Portfolio</a>
-        <a asp-controller="Contact" asp-action="Index" style="align-items">Contact</a>
+        <a asp-controller="Home" asp-action="Index" class="NavbarText" style="align-items">Home</a>
+        <a asp-controller="Portofolio" asp-action="Index" class="NavbarText" style="align-items">Portfolio</a>
+        <a asp-controller="Contact" asp-action="Index" class="NavbarText" style="align-items">Contact</a>
     </nav>
     <main role="main" class="pb-3">
         @RenderBody()
