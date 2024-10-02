@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\GeneralPageLayout.css"
     },
     {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Navbar.css"
+    },
+    {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

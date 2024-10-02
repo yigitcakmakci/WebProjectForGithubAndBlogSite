@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9pViqww7rhidyPIT4GLsKKMsc390lEOiz0nKDUJpSks=",
+  "Hash": "mjcgWMWvTe+gQqflQTczxroaXOugpxL3kckznBtFiwA=",
   "Source": "WebProjectForGithubAndBlogSite",
   "BasePath": "_content/WebProjectForGithubAndBlogSite",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\GeneralPageLayout.css"
+    },
+    {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Navbar.css",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "css/Navbar.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Navbar.css"
     },
     {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\site.css",
