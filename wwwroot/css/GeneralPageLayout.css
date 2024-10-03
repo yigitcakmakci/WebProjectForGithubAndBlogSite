@@ -1,6 +1,6 @@
 ﻿.veryOutside {
     display: flex;
     flex-direction: column; /* Divleri alt alta diz */
-    gap: 20px; /* Divler arasındaki boşluğu ayarla */
+    gap: 40px; /* Divler arasındaki boşluğu ayarla */
 }
 

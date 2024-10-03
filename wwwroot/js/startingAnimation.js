@@ -2,7 +2,7 @@
     const animatedDivs = document.querySelectorAll('.animated-div');
 
     function checkVisibility() {
-        const triggerPoint = window.innerHeight * 0.75; // Görüntüleme alanının %75'ine geldiğinde
+        const triggerPoint = window.innerHeight * 0.70; // Görüntüleme alanının %70'ine geldiğinde
         animatedDivs.forEach((div, index) => {
             const rect = div.getBoundingClientRect();
             if (rect.top < triggerPoint) {
