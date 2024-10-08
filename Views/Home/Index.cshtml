@@ -5,6 +5,7 @@
 <head>
     <link href="~/css/GeneralPageLayout.css" rel="stylesheet" />
     <link href="~/css/Block.css" rel="stylesheet" />
+    <link href="~/css/Footer.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -17,32 +18,32 @@
                     <p class="BlockText">Merhabalar, ben Yiğit Çakmakcı. Yazılım geliştiricisiyim. Yazılım alanında uğraşmayı seviyorum. Kendimi sürekli bu alanda geliştirmek için çabalıyorum.</p>
                 </div>
             </div>
-            <div class="grid-item">
-                <div class="circle BackgroundİmageStyles" style="background-image: url('/images/ProfilePhotoV1.jpg');"></div>
+            <div class="grid-item ">
+                <div class="GlowEffect circle BackgroundİmageStyles " style="background-image: url('/images/ProfilePhotoV1.jpg');"></div>
             </div>
         </div>
 
         <div class="outside grid-container1x animated-div GlowEffect">
             <div class="grid-container2x2">
-            <div class="grid-item">
+                <div class="grid-item GlowEffect">
                 <div>
                     <h2 class="BlockTitle">Çalışma deneyimlerim</h2>
                     <p class="BlockText">Daha önce Logo Yazılım firmasında uzun dönem stajyeri olarak görev aldım. Ve hermes projesinde arka uç yazılım geliştirmesi yaptım. <a asp-controller="Portofolio" asp-action="Index">Detaylar için...</a></p>
                 </div>
             </div>
-            <div class="grid-item">
+                <div class="grid-item GlowEffect">
                 <div>
                     <h2 class="BlockTitle">Eğitimim</h2>
                     <p class="BlockText">Bana yazılım kariyerime başlangıç yapmamı sağlayan; Mehmet Tuğrul Tekbulut Mesleki Ve Teknik Anadolu Lisesi'nden, meslek derslerindeki yüksek puanlarla mezun oldum. Ayrıca veri bilimi alanında online dersler aldım. <a asp-controller="Portofolio" asp-action="Index">Detaylar için...</a></p>
                 </div>
         </div>
-            <div class="grid-item">
+                <div class="grid-item GlowEffect">
                 <div>
                     <h2 class="BlockTitle">Çalıştığım Projeler</h2>
                     <p class="BlockText"> <b class="Subtitle">Logo Yazılım - Hermes projesi</b> <br /> Hermes projesinde iş hayatımdaki ilk görevimi aldım. Bu sayede profesyonel projeleri görme fırsatı buldum ve geliştirmeler yaptım. Grup çalışmalarında da deneyimimi bu projede kazandım.</p>
                 </div>
             </div>
-            <div class="grid-item">
+                <div class="grid-item GlowEffect">
                 <div>
                     <h2 class="BlockTitle">Bildiğim programlar</h2>
                     <p class="BlockText"> <b class="Subtitle">Yazılım geliştirme</b> <br /> "Web tasarımı: "ASP.NET CORE MVC / HTML, CSS, JAVASCRIPT, SQL, MONGODB, RABBITMQ, RESTAPI, BITBUCKET, GITHUB, MSSQL, C#" <br /> <b class="Subtitle">Oyun geliştirme</b> <br /> "Unreal Engine(C++), Unity(C#)"" <br /> <b class="Subtitle">Tasarım</b> <br /> "Abode(Photoshop/Premiere/AfterEffects), Aseprite(pixel Art)" <br /> <b class="Subtitle">Müzik</b> <br /> "Fl Studio(Amatör)" <br /> <a asp-controller="Portofolio" asp-action="Index">Detaylar için...</a></p>
@@ -54,13 +55,36 @@
             <div class="grid-item">
                 <div>
                     <h2 class="BlockTitle">Gelecek Hedeflerim</h2>
-                    <p class="BlockText">Gelecekte büyük projelerde imzalarımın olmasını istiyorum. Aslında gerçeği söylemek gerekirse, aklımdaki gelecek hayali huzurlu bir gelecek. İşimi sağlama almak için her türlü çabaya razıyım. Şu anda aktif olarak fabrikada çalışan birisi olarak hayalini kurduğum bahçeli bir evin balkonundan klasik müzik dinlediğimi hayal ediyorum. Bu birçok kişi için fakir edebiyatı gibi ya da aptalca gelse de, böyle bir hayat için herşeyi yapabilecek potansiyeldeyim.</p>
+                    <p class="BlockText">
+                        Yazılım alanında bir iş bulmak ve kendimi geliştirmek. İleride büyük projelerde imzam olması hedeflerim arasında...
+                    </p>
                 </div>
             </div>
         </div>
-
     </div>
+    
+   
 
     <!-- JavaScript dosyasını burada tek bir kez çağırıyoruz -->
     <script src="~/js/startingAnimation.js"></script>
 </body>
+
+ <div class="Footers grid-container2x">
+
+    <div class="grid-item"> 
+        <div> 
+             <h1>İLETİŞİM</h1>
+             <p>E-Mail: yigitcakmakci117@gmail.com</p>
+             <p>Phone Number: 0546 954 14 11</p> 
+        </div>
+    </div>
+	<div class="grid-item"> 
+        <div> 
+            <h1>Sosyal Medya</h1>
+            <p>LinkedIn: <a asp-controller="Redirect" asp-action="RedirectLinkedIn">LinkedIn</a></p>
+            <p>Youtube: <a asp-controller="Redirect" asp-action="RedirectYoutube">Youtube</a></p>
+            <p>Github: <a asp-controller="Redirect" asp-action="RedirectGithub">Github</a></p>
+            <p>Instagram: <a asp-controller="Redirect" asp-action="RedirectInstagram">Instagram</a></p>
+         </div>  
+     </div>
+ </div>

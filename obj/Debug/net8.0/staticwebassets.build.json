@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mjcgWMWvTe+gQqflQTczxroaXOugpxL3kckznBtFiwA=",
+  "Hash": "/tIfgO/jEsDgr5IEgxMShnsNLrNZ2DSG4UsspsMtKpk=",
   "Source": "WebProjectForGithubAndBlogSite",
   "BasePath": "_content/WebProjectForGithubAndBlogSite",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\Block.css"
     },
     {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Footer.css",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "css/Footer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Footer.css"
+    },
+    {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\GeneralPageLayout.css",
       "SourceId": "WebProjectForGithubAndBlogSite",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\GeneralPageLayout.css"
+    },
+    {
+      "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Layout.css",
+      "SourceId": "WebProjectForGithubAndBlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\",
+      "BasePath": "_content/WebProjectForGithubAndBlogSite",
+      "RelativePath": "css/Layout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Layout.css"
     },
     {
       "Identity": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Navbar.css",
