@@ -7,7 +7,7 @@
 
 .outside {
     width: 100%;
-    height: 600px;
+    /*height: 730px;*/
     border-radius: 20px;
     background-color: rgb(225, 195, 143, 0.5);
 }
@@ -44,6 +44,7 @@
 .grid-container2x2 {
     display: grid;
     grid-template-columns: repeat(2, 2fr); /* 2 eşit sütun ve 2 eşit satır oluşturur */
+    gap: 20px; /* Divler arasındaki boşluğu ayarla */
 }
 
 .animated-div {
@@ -56,6 +57,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius:10px;
 }
 
 .customBorder {
@@ -99,6 +101,5 @@
 
 .GlowEffect {
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px 3px rgba(225, 195, 143, 0.6); /* Glow efekti */
+    box-shadow: 0 0 15px 6px rgba(225, 195, 143, 0.5); /* Glow efekti */
 }

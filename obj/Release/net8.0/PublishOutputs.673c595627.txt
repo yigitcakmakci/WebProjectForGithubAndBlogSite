@@ -1,0 +1,7 @@
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\WebProjectForGithubAndBlogSite.exe
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\WebProjectForGithubAndBlogSite.dll
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\WebProjectForGithubAndBlogSite.deps.json
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\WebProjectForGithubAndBlogSite.runtimeconfig.json
+C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite\obj\Release\net8.0\PubTmp\Out\WebProjectForGithubAndBlogSite.pdb
