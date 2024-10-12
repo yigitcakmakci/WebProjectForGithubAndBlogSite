@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+<head>
+    <link href="~/css/GeneralPageLayout.css" rel="stylesheet" />
+    <link href="~/css/Block.css" rel="stylesheet" />
+    <link href="~/css/Footer.css" rel="stylesheet" />
+    <link href="~/css/BlogContent.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="veryOutside">
+        <div class="BlogOutside grid-container3x">
+
+            @for (int i = 0; i < Model.Count; i++) { 
+            <div class="grid-item GlowEffect">
+                <div class="InBlogBox GlowEffect">
+                    <div class="BlogBoxImage">@Model[i].Image</div>
+                    <div class="BlogBoxTitle">@Model[i].Title</div>
+                    <div class="BlogBoxDesc">@Model[i].Description</div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</body>

@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\Block.css"
     },
     {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\BlogContent.css",
+      "PackagePath": "staticwebassets\\css\\BlogContent.css"
+    },
+    {
+      "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Colors.css",
+      "PackagePath": "staticwebassets\\css\\Colors.css"
+    },
+    {
       "Id": "C:\\Users\\Yiğit Çakmakcı\\source\\repos\\WebProjectForGithubAndBlogSite\\WebProjectForGithubAndBlogSite\\wwwroot\\css\\Footer.css",
       "PackagePath": "staticwebassets\\css\\Footer.css"
     },
