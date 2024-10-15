@@ -22,14 +22,11 @@
     border-radius: 20px;
 }
 
-.grid-container2x {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 eşit sütun oluşturur */
-}
 
 .grid-container1x { /*gereksiz olduğunu biliyorum ama yapıyı şimdilik değiştirmedim. Sonrasında daha mantıklı bir yöntem ile değiştirilecek*/
     display: grid;
     grid-template-columns: repeat(1, 1fr); /* 2 eşit sütun oluşturur */
+    gap:30px;
 }
 
 .grid-container3x {
@@ -43,10 +40,10 @@
     grid-template-columns: repeat(4, 1fr); /* 4 eşit sütun oluşturur */
 }
 
-.grid-container2x2 {
+.grid-container2x {
     display: grid;
     grid-template-columns: repeat(2, 2fr); /* 2 eşit sütun ve 2 eşit satır oluşturur */
-    gap: 20px; /* Divler arasındaki boşluğu ayarla */
+    gap: 30px; /* Divler arasındaki boşluğu ayarla */
 }
 
 .animated-div {

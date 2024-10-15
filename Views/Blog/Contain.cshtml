@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Contain";
+}
+
+<head>
+
+    <link href="~/css/GeneralPageLayout.css" rel="stylesheet" />
+    <link href="~/css/Block.css" rel="stylesheet" />
+    <link href="~/css/Footer.css" rel="stylesheet" />
+    <link href="~/css/BlogContent.css" rel="stylesheet" />
+
+</head>
+
+<body>
+   <div class="veryOutside">
+        <div class="grid-container1x"> 
+            <div class="grid-item GlowEffect BlogBoxImageOut">
+                <img class="BlogBoxImage" src="@Model.Image" alt="Alternate Text" />
+            </div>
+            <div class="grid-item GlowEffect">
+                <h1>@Model.Title</h1>
+            </div>
+            <div class="grid-item GlowEffect">
+                <h3> @Model.Description</h3>
+            </div>
+            <div class="grid-item GlowEffect">
+                <p>@Model.Content</p>
+            </div>
+        </div>
+   </div>
+</body>

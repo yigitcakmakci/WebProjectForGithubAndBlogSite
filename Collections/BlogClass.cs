@@ -4,6 +4,7 @@ using WebProjectForGithubAndBlogSite.Models;
 using System.Data.SqlClient;
 using WebProjectForGithubAndBlogSite.Collections;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Reflection.Metadata;
 
 namespace WebProjectForGithubAndBlogSite.Collections
 {
@@ -52,6 +53,39 @@ namespace WebProjectForGithubAndBlogSite.Collections
                 connection.Close();
                 return (blogContents);
             }
+
+        }
+
+        public BlogContentDataModel GetContentById(int Id)
+        {
+            BlogContentDataModel blogContentDataModel = null;
+
+            string query = "SELECT * FROM BlogContent WHERE Id = @id";
+
+            using (SqlConnection connection = new SqlConnection(SqlConnectionClass.connectionString))
+            {
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@id", Id);
+
+                connection.Open();
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        blogContentDataModel = new BlogContentDataModel
+                        {
+                            Id = reader.GetInt32(0), // ID kolonu
+                            Title = reader.GetString(1), // Başlık kolonu
+                            Description = reader.GetString(2), // İçerik kolonu
+                            Content = reader.GetString(3), // İçerik kolonu
+                            Image = reader.GetString(4) // İçerik kolonu
+                        };
+                    }
+                }
+            }
+
+            return blogContentDataModel;
 
         }
     }

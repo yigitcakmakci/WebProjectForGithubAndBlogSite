@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Yiğit Çakmakcı\source\repos\WebProjectForGithubAndBlogSite\WebProjectForGithubAndBlogSite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Yiğit Çakmakcı/source/repos/WebProjectForGithubAndBlogSite/WebProjectForGithubAndBlogSite/Views/Blog/Contain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb250YWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Yiğit Çakmakcı/source/repos/WebProjectForGithubAndBlogSite/WebProjectForGithubAndBlogSite/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

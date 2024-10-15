@@ -1,14 +1,23 @@
 ﻿
 
 .BlogOutside {
-    
+    width:90%;
+
+}
+
+.grid-itemBlogBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 2%;
 }
 
 .InBlogBox {
     min-height: 300px;
-    width: 100%;
-    height: 90%;
-    background-color: rgb(255, 0, 180, 0.7); /*Test İçin*/
+    max-height: 600px;
+    width: 90%;
+    height: 100%;
     border-radius: 10px;
     padding: 10px;
     cursor: pointer;
@@ -21,16 +30,20 @@
 }
 
 .BlogBoxImage{
-    height:45%;
-    width:100%;
-    background-color:red;
+    height:100%;
     align-content:center;
     border-radius:10px;
 }
 
+.BlogBoxImageOut {
+    max-height:500px;
+}
+
+
 .BlogBoxTitle {
     font-size:40px;
     font-weight:500;
+
 }
 
 .BlogBoxDesc {

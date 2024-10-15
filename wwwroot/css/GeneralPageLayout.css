@@ -2,5 +2,6 @@
     display: flex;
     flex-direction: column; /* Divleri alt alta diz */
     gap: 35px; /* Divler arasındaki boşluğu ayarla */
+    align-items:center;
 }
 
